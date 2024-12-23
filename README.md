@@ -10,7 +10,7 @@ The research explores the following key questions:
 4. **What is the relationship between source code complexity and ChatGPT's ability to detect vulnerabilities correctly?**
 
 ## Repository Contents
-- **Independent Research Paper**: [Indepedent Research Paper.pdf](Independent_Research_Paper.pdf)  
+- **Independent Research Paper**:
   The full paper detailing the methodology, results, and findings.
 - **Dataset Used**: [all_c_cpp_release2.0.csv.zip](all_c_cpp_release2.0.csv.zip)  
   A subset of the dataset titled "A C/C++ Code Vulnerability Dataset with Code Changes and CVE Summaries," used for analysis.  
